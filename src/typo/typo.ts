@@ -19,6 +19,6 @@ export const checkTypo = async (email: string): Promise<string | undefined> =>
       topLevelDomains: ["com", "com.au", "com.tw", "ca", "co.nz", "co.uk", "de",
             "fr", "it", "ru", "net", "org", "edu", "gov", "jp", "nl", "kr", "se", "eu",
             "ie", "co.il", "us", "at", "be", "dk", "hk", "es", "gr", "ch", "no", "cz",
-            "in", "net", "net.au", "info", "biz", "mil", "co.jp", "sg", "hu", "com.sa", "sa"],
+            "in", "net", "net.au", "info", "biz", "mil", "co.jp", "sg", "hu", "com.sa", "sa", "ps"],
     })
   )
